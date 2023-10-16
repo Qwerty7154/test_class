@@ -1,2 +1,2 @@
 # test_class
-This is for this set of amazing people.
+This is for this set of amazing people!
